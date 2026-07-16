@@ -18,6 +18,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mishra-1234/leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-1234/leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/mishra-1234/leetcode_problem/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
