@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/mishra-1234/leetcode_problem/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/mishra-1234/leetcode_problem/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/mishra-1234/leetcode_problem/tree/master/0169-majority-element) |
+| [0643-maximum-average-subarray-i](https://github.com/mishra-1234/leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mishra-1234/leetcode_problem/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mishra-1234/leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
