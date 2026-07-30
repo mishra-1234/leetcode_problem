@@ -10,12 +10,14 @@
 | [0027-remove-element](https://github.com/mishra-1234/leetcode_problem/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/mishra-1234/leetcode_problem/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/mishra-1234/leetcode_problem/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/mishra-1234/leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mishra-1234/leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mishra-1234/leetcode_problem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mishra-1234/leetcode_problem/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/mishra-1234/leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -56,5 +58,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/mishra-1234/leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mishra-1234/leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
