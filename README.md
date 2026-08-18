@@ -25,6 +25,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-1234/leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mishra-1234/leetcode_problem/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/mishra-1234/leetcode_problem/tree/master/0131-palindrome-partitioning) |
+| [0344-reverse-string](https://github.com/mishra-1234/leetcode_problem/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mishra-1234/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mishra-1234/leetcode_problem/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-1234/leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/mishra-1234/leetcode_problem/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
