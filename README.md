@@ -40,6 +40,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/mishra-1234/leetcode_problem/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mishra-1234/leetcode_problem/tree/master/0066-plus-one) |
+| [0223-rectangle-area](https://github.com/mishra-1234/leetcode_problem/tree/master/0223-rectangle-area) |
 ## String Matching
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/mishra-1234/leetcode_problem/tree/master/0131-palindrome-partitioning) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/mishra-1234/leetcode_problem/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
