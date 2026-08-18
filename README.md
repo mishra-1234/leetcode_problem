@@ -24,6 +24,7 @@
 | [0014-longest-common-prefix](https://github.com/mishra-1234/leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-1234/leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mishra-1234/leetcode_problem/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/mishra-1234/leetcode_problem/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
 | ------- |
@@ -60,4 +61,12 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mishra-1234/leetcode_problem/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mishra-1234/leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/mishra-1234/leetcode_problem/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/mishra-1234/leetcode_problem/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
