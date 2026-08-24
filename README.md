@@ -76,4 +76,12 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/mishra-1234/leetcode_problem/tree/master/0223-rectangle-area) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mishra-1234/leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mishra-1234/leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
