@@ -23,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mishra-1234/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/mishra-1234/leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-1234/leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mishra-1234/leetcode_problem/tree/master/0058-length-of-last-word) |
@@ -35,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mishra-1234/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mishra-1234/leetcode_problem/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mishra-1234/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mishra-1234/leetcode_problem/tree/master/0027-remove-element) |
@@ -71,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mishra-1234/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/mishra-1234/leetcode_problem/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -96,4 +99,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mishra-1234/leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mishra-1234/leetcode_problem/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
