@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/mishra-1234/leetcode_problem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mishra-1234/leetcode_problem/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mishra-1234/leetcode_problem/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/mishra-1234/leetcode_problem/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mishra-1234/leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mishra-1234/leetcode_problem/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/mishra-1234/leetcode_problem/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/mishra-1234/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mishra-1234/leetcode_problem/tree/master/0344-reverse-string) |
 ## Trie
 |  |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mishra-1234/leetcode_problem/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/mishra-1234/leetcode_problem/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
